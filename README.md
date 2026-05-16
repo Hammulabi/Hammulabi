@@ -48,4 +48,9 @@ application métier.
 
 - LedgerOne Proof of Concept (POC)
 «Application Web de gestion de dépenses (API FastAPI + Frontend HTML/JS) »
+LedgerOne, une entreprise fictive spécialisée dans les outils de gestion financière
+personnelle, souhaite développer un Proof of Concept pour une application web permettant
+de suivre et analyser des dépenses. Ce projet académique a été réalisé dans le cadre d’un
+test technique qui vise à reproduire une mission réelle qui pourrait être mené un intervenant
+JEECE.
 
